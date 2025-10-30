@@ -23,10 +23,10 @@ Support du mode multifractales (bonus)
 
 ## 🔧 Compilation Make
 
-make        → compile l’exécutable fractol  
-make clean  → supprime les fichiers objets (.o)  
-make fclean → supprime les fichiers objets et l’exécutable  
-make re     → recompile entièrement le projet
+`make`        → compile l’exécutable fractol  
+`make clean`  → supprime les fichiers objets `.o`
+`make fclean` → supprime les fichiers objets et l’exécutable  
+`make re`     → recompile entièrement le projet
 
 ---
 
